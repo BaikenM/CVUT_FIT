@@ -1,0 +1,1 @@
+g++ -Wall -pedantic -std=c++17 -Wno-long-long -O2 -Werror -g
